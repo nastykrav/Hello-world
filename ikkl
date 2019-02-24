@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Удивительные животные</title>
+  </head>
+   <body>
+    <header><h1>Удивительные животные</h1></header>
+    <b
+      >На нашем сайте вы узнаете об удивительных животных нашей планеты. Чтоб узнать больше воспользуйтесь ссылкой
+      <a href="https://http://www.priroda.su/item/3149">посиланням</a></b
+    >
+      <p><img src="img/animal.jpg" alt="animal" /></p>
+       <h2>Самое большое животное:</h2>
+    <ul>
+      <li>«Голубой кит» (<b>Blue whale</b>)</li>
+       </ul>
+     <h2>Самое тяжелое животное:</h2>
+    <ul>
+      <li>Африканский слон — <b>«Africant elephant»</b></li>
+     </ul> 
+       <h2>Самое высокое животное:</h2>
+    <ul>
+      <li>Жираф — <b>«Giraffe»</b></li>
+     </ul> 
+       <h2>Самая большая рептилия:</h2>
+    <ul>
+      <li>Морской крокодил — <b>«Saltwater crocodile»</b></li>
+     </ul> 
+      <h3>Название животного и его характеристика:</h3>
+    <table border="1">
+      <tr>
+        <th>Название животного</th>
+        <th>Его характеристика</th>
+      </tr>
+        <tr>
+        <td>Голубой кит»</td>
+        <td>Длина 26-27м, вес от 130 т</td>
+      </tr>
+      <tr>
+        <td>Африканский слон</td>
+        <td>Средняя масса тела 5-7 т</td>
+      </tr>
+      <tr>
+        <td>«Жираф»</td>
+        <td>Высота 5,5-6,1 м, вес тела 900-1200 кг</td>
+      </tr>
+      <tr>
+        <td>Морской крокодил»</td>
+        <td>Длина самцов 6-7 м, вес до 1000 кг</td>
+      </tr>
+      <tr>
+       </table>
+        <p>
+     Пройдите тест нажав пройти тест
+      <a href="form.html"
+        ><i><b>пройти тест</b></i>
+      </a>
+    </p>
+    <footer>Copyright Anastasiia <i>2019</i></footer>
+  </body>
+</html>
